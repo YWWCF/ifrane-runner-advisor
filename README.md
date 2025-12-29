@@ -37,7 +37,7 @@ pip install requests python-dotenv
 
 2.Add your OpenWeatherMap API key to the file:
 ```Bash
-  OPENWEATHER_API_KEY=your_actual_api_key_here
+  openweather_api_key=your_actual_api_key_here
 ```
   
 
